@@ -37,7 +37,7 @@ Prediction emerging industries and sales trends in Apgujeong and Sinchon-dong us
         1. 상관관계 분석
     
 
-- [2차 목표] 통계(Statsmodel OLS), SARIMA, LSTM, Chat-GPT 활용하여 업종 별 예측 매출액 시각화하여 2023년의 추천 업종 선정
+- [2차 목표] 통계(Statsmodel OLS) 모델링으로 지표를 선정 → 이를 바탕으로 SARIMA, LSTM, Chat-GPT 활용하여 업종 별 예측 매출액 시각화하여 2023년의 추천 업종 선정
 
 - [3차 목표] 추천 업종으로 예측한 결과와 실제 동향 비교 (기사, 레포트 등 참고)
 
