@@ -51,3 +51,5 @@ Prediction emerging industries and sales trends in Apgujeong and Sinchon-dong us
 # 💪🏻 한계 및 아쉬운 점
 - 분기별 데이터셋만 확보가 가능했기에 실질적으로 분석한 행은 24분기, 24개행에 불과하여 오차를 줄이기 어려웠습니다.
 - 팀프로젝트 당시에는 두 번의 주제 변경으로 시간을 확보하지 못해 해당 결과를 서비스화 하지 못했습니다. 이후 개인적으로 Streamlit으로 시각화 대시보드를 구현하려고 시도해보았으나 업종 별로 나누어진 데이터셋에 막혀 구현하기 어려웠습니다.
+
+Copyright @orjunge. All Rights Reserved.
