@@ -2,7 +2,7 @@
 Prediction emerging industries and sales trends in Apgujeong and Sinchon-dong using SARIMA and LSTM
 
 # 프로젝트 기간
-- 약 5주
+- 약 8주
 
 # 📂 데이터셋 출처
 - [서울시 공공데이터](https://data.seoul.go.kr/dataList/datasetList.do#)
