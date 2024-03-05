@@ -35,6 +35,9 @@ Prediction emerging industries and sales trends in Apgujeong and Sinchon-dong us
         1. 업종별 해당 지역의 개업률 / 폐업률
         1. 업종별 연령별 매출
         1. 상관관계 분석
+    - 최종 가설
+        - 압구정동 : 상권은 팬데믹의 영향을 받지 않고 꾸준히 성장 중이며, 뜨고 있는 업종은 주로 <외식업>에 있을 것이다.
+        - 신촌동 : 꾸준히 하락세였으나 앞으로는 올라갈 것이며, <카페/베이커리> 업종의 상승세가 뚜렷할 것이다.
     
 
 - [2차 목표] 통계(Statsmodel OLS) 모델링으로 지표를 선정 → 이를 바탕으로 SARIMA, LSTM, Chat-GPT 활용하여 업종 별 예측 매출액 시각화하여 2023년의 추천 업종 선정
