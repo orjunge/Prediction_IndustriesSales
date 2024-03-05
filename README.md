@@ -1,7 +1,7 @@
 # Prediction_IndustriesSales
 Prediction emerging industries and sales trends in Apgujeong and Sinchon-dong using SARIMA and LSTM
 
-# 프로젝트 기간
+# ⌛ 프로젝트 기간
 - 약 8주
 
 # 📂 데이터셋 출처
@@ -24,7 +24,7 @@ Prediction emerging industries and sales trends in Apgujeong and Sinchon-dong us
 > 이에 본 프로젝트에서는 위 두 지역에서 창업을 준비 중인 예비 창업자의 의사 결정에 도움을 주고자,  
 상권 별 매출, 점포 수 드으이 정보가 담긴 지난 6년(24분기, 2017~2022年) 간의 데이터를 기반으로 매출 예측을 시각화하여 성장할 만한 업종을 추천하고자 합니다.
 
-## 세부 목표
+## 🎯 세부 목표
 - [1차 목표] 압구정동과 신촌동 집중 분석하여 가설 설정
     - 집중 분석할 내용
         1. 업종별, 요일별 매출 금액 및 비율
@@ -42,7 +42,7 @@ Prediction emerging industries and sales trends in Apgujeong and Sinchon-dong us
 - [3차 목표] 추천 업종으로 예측한 결과와 실제 동향 비교 (기사, 레포트 등 참고)
 
 
-# 🎯 기대 효과
+# ✨ 기대 효과
 > 서울시에서 제공하는 상권분석 서비스는 1개년의 데이터만을 가지고 제공 중이었으나,
 본 프로젝트는 6년 간의 데이터를 가지고 예측을 진행하여 성장 가능성이 있는 업종 추천에 보다 정확성이 높은 결과낼 수 있습니다.
 
